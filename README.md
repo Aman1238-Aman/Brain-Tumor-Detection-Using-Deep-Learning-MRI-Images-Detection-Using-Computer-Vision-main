@@ -63,8 +63,7 @@ The model is trained to balance accuracy and generalization, reducing overfittin
 
 Clone the repository
 
-git clone https://github.com/your-username/Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision.git
-
+git clone https://github.com/Aman1238-Aman/Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision-main.git
 
 Navigate to the project directory
 
